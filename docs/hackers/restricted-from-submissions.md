@@ -24,3 +24,5 @@ Trial reports are given when you don't meet the signal requirements for a progra
 When you have 5 total trial reports left, you'll see a yellow warning box on top of the report submission form letting you know that the number of trial reports you have left is getting lower.
 
 Use your trial reports wisely! These limited chances are the perfect opportunity to submit the best reports  you have so that your signal can improve.
+
+
